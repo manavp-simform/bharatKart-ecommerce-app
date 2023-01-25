@@ -16,6 +16,6 @@ function printThirtyTimes(c) {
   }
 }
 
-printTenTimes(5);
+printTenTimes(25);
 printTwentyTimes(10);
 printThirtyTimes(15);
