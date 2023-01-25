@@ -3,6 +3,22 @@ function printVjv(){
         console.log("I am VJV");
     }
     console.log("have a nice day");
+
+    console.log("have a nice day");
+
+
+    console.log("have a nice day");
+
+
+
+
+    console.log("have a nice day");
+
+
+
+
+
+    console.log("have a nice day");
 }
 
 printVjv();
