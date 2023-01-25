@@ -9,3 +9,13 @@ function printTwentyTimes(b) {
     console.log(b * i);
   }
 }
+
+function printThirtyTimes(c) {
+  for (let i = 1; i < 31; i++) {
+    console.log(c * i);
+  }
+}
+
+printTenTimes(5);
+printTwentyTimes(10);
+printThirtyTimes(15);
