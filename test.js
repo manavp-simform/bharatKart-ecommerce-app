@@ -1,6 +1,6 @@
-function printTenTimes(a) {
+function printTenTimes(x) {
   for (let i = 1; i < 11; i++) {
-    console.log(a * i);
+    console.log(x * i);
   }
 }
 console.log("Hii");
