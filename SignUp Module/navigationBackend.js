@@ -18,7 +18,7 @@ $(function() {
     }
   });
 });
-
+let msg = "Hii";
 let switchNavMenuItem = menuItems => {
   var current = location.pathname;
 
