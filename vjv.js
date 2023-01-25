@@ -17,6 +17,12 @@ function printVjv(){
 
 
     console.log("have a nice day");
+    console.log("have a nice day");
+    console.log("have a nice day");
+    console.log("have a nice day");
+    console.log("have a nice day");
+    
+
 }
 
 printVjv();
