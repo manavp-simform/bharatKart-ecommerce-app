@@ -16,6 +16,9 @@ function printThirtyTimes(c) {
     console.log(c * i);
   }
 }
+function print(params) {
+  console.log("Hello");
+}
 
 printTenTimes(25);
 printTwentyTimes(10);
